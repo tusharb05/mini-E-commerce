@@ -170,6 +170,12 @@ main {
   border-top-right-radius: var(--radius);
   border-top-left-radius: var(--radius);
 }
+.tour-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
 .tour-info h4 {
   margin-bottom: 0;
 }
