@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-
+# A basic E-commerce website, made with React.js
+### App Demo: https://mini-e-commerce.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
